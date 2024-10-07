@@ -1,0 +1,1 @@
+cd Frontend && npm install && npm run build && cd .. && cd Server && node server.js
